@@ -11,7 +11,8 @@ Public source code repo for **PRAGMA: Interactively Constructing Functional Brai
 If you find this code helpful in your research please cite the following paper:
 
 ```
-Bayrak, Roza G., Nhung Hoang, Colin B. Hansen, Catie Chang, and Matthew Berger. "PRAGMA: Interactively Constructing Functional Brain Parcellations." arXiv preprint arXiv:2009.01697 (2020).```
+Bayrak, Roza G., Nhung Hoang, Colin B. Hansen, Catie Chang, and Matthew Berger. "PRAGMA: Interactively Constructing Functional Brain Parcellations." arXiv preprint arXiv:2009.01697 (2020).
+```
 
 The paper can be found [here](https://arxiv.org/abs/2009.01697).
 
