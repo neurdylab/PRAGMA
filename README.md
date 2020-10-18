@@ -3,6 +3,8 @@
 
 ![Method overview](figures/teaser.png)
 
+![Functional Connectivity](figures/tweet.gif)
+
 Public source code repo for **PRAGMA: Interactively Constructing Functional Brain Parcellations** paper, which was accepted to [IEEE VIS 2020](http://ieeevis.org/year/2020/welcome).
 
 
