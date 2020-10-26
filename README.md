@@ -20,7 +20,7 @@ The paper can be found [here](https://arxiv.org/abs/2009.01697).
 
 ## Quick Start
 #### d3 notebook
-Observable [notebook](https://observablehq.com/d/0a3780675484b524)
+Observable notebook [here](https://observablehq.com/d/0a3780675484b524)
 #### Get our docker image
 ```
 sudo docker pull rgbayrak/pragma
