@@ -19,6 +19,10 @@ The paper can be found [here](https://arxiv.org/abs/2009.01697).
 **Abstract**: A prominent goal of neuroimaging studies is mapping the human brain, in order to identify and delineate functionally-meaningful regions and elucidate their roles in cognitive behaviors. These brain regions are typically represented by atlases that capture general trends over large populations. Despite being indispensable to neuroimaging experts, population-level atlases do not capture individual or state-dependent differences in functional organization. In this work, we present an interactive visualization method, PRAGMA, that allows domain experts to derive scan-specific parcellations from established atlases. PRAGMA features a user-driven, hierarchical clustering scheme for defining temporally correlated parcels in varying granularity. The visualization design supports the user in making decisions on how to perform clustering, namely when to expand, collapse, or merge parcels. This is accomplished through a set of linked and coordinated views for understanding the user's current hierarchy, assessing intra-cluster variation, and relating parcellations to an established atlas. We assess the effectiveness of PRAGMA through a user study with four neuroimaging domain experts, where our results show that PRAGMA shows the potential to enable exploration of individual/state-specific brain parcellations and to offer interesting insights into functional brain networks.
 
 ## Quick Start
+#### d3 notebook
+```
+Observable [notebook.] (https://observablehq.com/d/0a3780675484b524)
+```
 #### Get our docker image
 ```
 sudo docker pull rgbayrak/pragma
