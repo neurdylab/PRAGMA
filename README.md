@@ -2,7 +2,9 @@
 ## Interactively Constructing Functional Brain Parcellations
 
 
-Public source code repo for **PRAGMA: Interactively Constructing Functional Brain Parcellations** paper, which was accepted to [IEEE VIS 2020](http://ieeevis.org/year/2020/info/papers-sessions), **Best Short Paper Honorable Mention**.
+Public source code repo for **PRAGMA: Interactively Constructing Functional Brain Parcellations** paper, which was accepted to [IEEE VIS 2020](http://ieeevis.org/year/2020/info/papers-sessions), 
+
+🏅**Best Short Paper Honorable Mention**.
 
 ![Method overview](figures/teaser.png)
 
